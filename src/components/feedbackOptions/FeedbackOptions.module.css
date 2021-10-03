@@ -1,0 +1,18 @@
+.FeedbackOptionsList {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.FeedbackOptionsListItem {
+  padding: 10px;
+}
+
+.FeedbackOptionsListBtn {
+  cursor: pointer;
+}
+
+.FeedbackOptionsListBtn:hover {
+  background-color: aqua;
+} 
